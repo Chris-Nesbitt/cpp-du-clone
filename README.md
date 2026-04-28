@@ -32,4 +32,4 @@ The program supports several CLI flags similar to the UNIX `du` command:
 - `--version` display version number
 
 ## Purpose
-This project was developed as a programming exercise to practice file system interaction, command-line interface design, and formatted output in C++.
+Created as a programming assignment in the Computer Programming and Analysis program at Fanshawe College.
