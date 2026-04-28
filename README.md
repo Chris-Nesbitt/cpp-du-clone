@@ -30,6 +30,5 @@ The program supports several CLI flags similar to the UNIX `du` command:
 - `--block-size=dddd` specify a custom cluster size
 - `--help` display program usage information
 - `--version` display version number
-
-## Purpose
+  
 Created as a programming assignment in the Computer Programming and Analysis program at Fanshawe College.
