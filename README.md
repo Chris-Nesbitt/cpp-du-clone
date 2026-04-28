@@ -1,7 +1,7 @@
 # Disk Usage Utility (C++)
 
 ## Description
-A C++20 console application that replicates core functionality of the UNIX
+A C++ console application that replicates core functionality of the UNIX
 `du` (disk usage) command. The program scans directories and reports disk
 usage for files and folders while supporting a variety of command-line
 options for formatting, sorting, and summarizing results.
